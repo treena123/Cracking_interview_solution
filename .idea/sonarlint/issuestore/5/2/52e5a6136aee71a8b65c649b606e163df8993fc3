@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñç’¿üÿÿÿÿ
+J	java:S108X")Either remove or fill this block of code.(è®ã¶øÿÿÿÿ8±äÿÐß2
+h
+java:S2142X"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8‚¨ŒÑß2
+h
+java:S2142d"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8‚¨ŒÑß2
+J	java:S108d")Either remove or fill this block of code.(è®ã¶øÿÿÿÿ8‚¨ŒÑß2
